@@ -1,1 +1,1 @@
-# dongkyubyeon-skku.github.io
+# dongkyubyeon.github.io
